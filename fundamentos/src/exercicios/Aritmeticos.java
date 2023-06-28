@@ -13,6 +13,8 @@ public class Aritmeticos {
 		System.out.println(x + y);
 		System.out.println(x + y);
 		System.out.println(x + y);
+		System.out.println(x + y);
+		System.out.println(x + y);
 
 	}
 
