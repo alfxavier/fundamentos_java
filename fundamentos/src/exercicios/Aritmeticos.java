@@ -10,6 +10,9 @@ public class Aritmeticos {
 		double y = 2.2;
 		
 		System.out.println(x + y);
+		System.out.println(x + y);
+		System.out.println(x + y);
+		System.out.println(x + y);
 
 	}
 
